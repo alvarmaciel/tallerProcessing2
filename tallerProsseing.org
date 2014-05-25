@@ -1,0 +1,8 @@
+* Clase 2 <2014-05-16 vie>
+** Evento asincrono
+Código por fuera de la secuencia de ejecución del setup o el draw
+
+#+BEGIN_
+void keyPressed() { 
+}
+#+END
